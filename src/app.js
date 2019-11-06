@@ -1,7 +1,5 @@
-import {sayHello} from './modules/greeting';
-
-import {} from './modules/connect';
-import {sum, product, dividend, difference, modulus, sqrroot} from './modules/math-functions';
+import { sayHello } from './modules/greeting';
+import { sum, product, dividend, difference, modulus, sqrroot } from './modules/math-functions';
 
 const resultGreeting = document.getElementById('resultGreeting');
 const resultSum = document.getElementById('resultSum');
