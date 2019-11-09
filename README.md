@@ -1,4 +1,4 @@
-# Gulp, Sass, webpack and ES6 modules boilerplate
+## Gulp, Sass, webpack and ES6 modules boilerplate
 
 ## Installation 
 
