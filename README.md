@@ -1,10 +1,8 @@
 ## Gulp, Sass, webpack and ES6 modules boilerplate
 
-## Installation 
-
+sh```
+npm install 
 ```
-$ npm install ; npm install gulp@3.9.1 --save
-```
-```
-$ npm start
+sh```
+npm start
 ```
